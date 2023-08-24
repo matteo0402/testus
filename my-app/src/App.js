@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           ROCK NALLE ELSKER BABSER
+          ROKAS ER SEJ
         </p>
         <a
           className="App-link"
