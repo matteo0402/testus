@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Lær Andreas' mor at kende
         </a>
       </header>
     </div>
